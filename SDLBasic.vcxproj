@@ -20,9 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{2AA3987A-FD40-4CF8-91F3-F0A4099BF748}</ProjectGuid>
+    <ProjectGuid>{68C74A9D-3F5D-48C9-81CF-0A9170D7A48E}</ProjectGuid>
     <RootNamespace>Pineapples</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>SDLBasic</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
